@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
-    /protfolio/
+   - /protfolio/
 ---
 
 {% include base_path %}
