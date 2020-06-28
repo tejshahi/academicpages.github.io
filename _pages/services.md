@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Services"
 permalink: /portfolio/
 author_profile: true
 redirect_from:
