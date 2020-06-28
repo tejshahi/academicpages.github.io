@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+## Department of Computer Sceince and IT,Tribhuvan University (2017-)
+Teaching, Research and Curriculam Development
+- CS 521-Advanced Operating System (Graduate Course)
+- CS 421- Machine Learning
 
-Heading 2
-======
+## KIST COllege, Kathmandu Nepal (2017-2019)
+Tutoring, Final year Project Guide and Evaluation
+- IT341- Project Managment (BIM)
+- IT371- Artificial Intelligence (BIM)
 
-Heading 3
-======
+## Kathford International COllge, (2012-2014)  
+Tutoring and Supervision
+- CS321- Simulation and MOdelling,
+- CS 531- Object oriented Programming with C++
