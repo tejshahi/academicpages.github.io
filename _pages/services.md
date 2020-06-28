@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Advisory/Community Service Postions
-- Advisory Team Member, Treeleaf.ai, An IOT and AI company based on USA, Nepal and UK (www.treeleaf.ai)
-- Organizing Member, Himalayn Linguistic Olympiad-2018 and 2019, (www.hlon.org)
+- Advisory Team Member, Treeleaf.ai, An IOT and AI company based on USA, Nepal and UK (https://www.treeleaf.ai)
+- Organizing Member, Himalayn Linguistic Olympiad-2018 and 2019, (https://www.hlon.org)
 - Vice President, Computer Science Almuni Association Nepal (2016-2018)
 
 ## External Thesis Evaluation
