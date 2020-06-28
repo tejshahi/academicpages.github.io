@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: " "
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 ## Office Address
-Central Queensland University
-School of Engineering and Technology
-Post Graduate Building, 28.1.10
-North Rockhampton, QLD, Australia
+Central Queensland University  
+School of Engineering and Technology  
+Post Graduate Building, 28.1.10  
+North Rockhampton, QLD, Australia  
 
 ## Email
-tshahi@cqu.edu.au (CQuniversity Email)
-tejshahi@cdcsit.edu.np (Tribhivan University Email)
-tejshahi1984@gmail.com
+tshahi@cqu.edu.au (CQuniversity Email)  
+tejshahi@cdcsit.edu.np (Tribhivan University Email)  
+tejshahi1984@gmail.com  
+
