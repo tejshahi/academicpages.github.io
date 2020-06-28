@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Services"
-permalink: /portfolio/
+permalink: /services/
 author_profile: true
 redirect_from:
    - /protfolio/
