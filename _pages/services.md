@@ -4,7 +4,7 @@ title: "Services"
 permalink: /services/
 author_profile: true
 redirect_from:
-   - /protfolio/
+   - /services/
 ---
 
 {% include base_path %}
