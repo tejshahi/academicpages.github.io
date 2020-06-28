@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tej Shahi, RTP Scholar"
+  name             : #"Tej Shahi, RTP Scholar"
   avatar           : #""
   bio              : "Assistant Professor"
   location         : "Kritipur, Kathmandu"
