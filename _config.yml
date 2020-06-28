@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunil Aryal"
+title                    : "Tej Shahi"
 title_separator          : "-"
-name                     : &name "Sunil Aryal"
+name                     : &name "Tej Shahi"
 description              : &description "personal description"
 url                      : https://sunilaryal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sunilaryal/sunilaryal.github.io"
+repository               : "tejshahi/tejshahi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -60,7 +60,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : #"sunil.png" 
+og_image                 : "tej.png" 
 # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sunil Aryal, PhD"
-  avatar           : #"Sunil.png"
-  bio              : "Lecturer in IT"
-  location         : "Geelong, Australia"
-  employer         : "Deakin University"  
-  googlescholar    : "https://scholar.google.com.au/citations?user=Ivj3Mm0AAAAJ&hl=en"
-  email            : "sunil.aryal@deakin.edu.au"
+  name             : "Tej Shahi"
+  avatar           : "tej.png"
+  bio              : "Asst. Professor"
+  location         : "Kathmandu, Nepal"
+  employer         : "Tribhuvan University"  
+  googlescholar    : "https://scholar.google.com/citations?user=t7kVlfIAAAAJ&hl=en"
+  email            : "tejshahi@cdcsit.edu.np"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sunilaryal"
+  github           : "tejshahi"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "sunil-aryal-7a583656/"
-  orcid            : "http://orcid.org/0000-0002-6639-6824"
+  linkedin         : "tej-shahi-8365424b/"
+  orcid            : "https://orcid.org/0000-0002-0616-3180"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"@aryalsun"
+  twitter          : #"@tej_shahi"
   vine             :
   weibo            :
   xing             :
