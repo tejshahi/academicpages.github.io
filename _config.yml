@@ -11,7 +11,7 @@ title                    : "Tej Shahi"
 title_separator          : "-"
 name                     : &name "Tej Shahi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tejshahi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tejshahi/tejshahi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "tej.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "TejShahi"
+  name             : "Tej Shahi, RTP Scholar"
   avatar           : "tej.png"
   bio              : "Assistant Professor"
   location         : "Kritipur, Kathmandu"
@@ -88,7 +88,7 @@ author:
   Orchid           : "https://orcid.org/0000-0002-0616-3180"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=t7kVlfIAAAAJ"
   email            : "tejshahi@cdcsit.edu.np
-  researchgate     :  "https://www.researchgate.net/profile/Tej_Shahi"
+  researchgate     : "https://www.researchgate.net/profile/Tej_Shahi"
   uri              :
   bitbucket        :
   codepen          :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/tej_shahi"
+  twitter          : "@tej_shahi"
   vine             :
   weibo            :
   xing             :
