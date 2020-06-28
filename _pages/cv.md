@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-*  July, 2017 -Present (On study leave)	Lecturer, CDCSIT, Tribhuvan University, Nepal.
+* July, 2017 -Present, Lecturer (Asst. Professor), CDCSIT, Tribhuvan University, Nepal (Currently on Study Leave).
   - The primary role is to prepare teaching materials and take lectures for master’s degree students. Also supervise students toward their master’s thesis and perform research activities in the department.
 * March, 2012 – May, 2016	Part-Time Lecturer, Kathford International College of Engineering and Management, Kathmandu Nepal.
   - To deliver lectures for undergraduate courses: Artificial Intelligence, Data Mining and Object oriented Programing.
