@@ -3,7 +3,11 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /teaching
 ---
+
+{% include base_path %}
 
 ## Department of Computer Sceince and IT,Tribhuvan University (2017-)
 Teaching, Research and Curriculam Development
