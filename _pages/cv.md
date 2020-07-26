@@ -28,4 +28,4 @@ Work experience
 * August, 2013-July, 2017	Computer Officer, Ministry of Peace and Reconstruction, Government of Nepal
   - Taking care of all Computer hardware maintenance and software development, maintenance, monitoring and supervision activities.
 
-**You can find my detailed CV** [<span style="color:blue">*here*</span>](https://github.com/tejshahi/tejshahi.github.io/files/CV-Tej-2020.pdf)
+**You can find my detailed CV** [<span style="color:blue">*here*</span>] https://tejshahi.github.io/files/CV-Tej-2020.pdf
