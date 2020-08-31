@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Journal Articles
+*  **Shahi, T.B.**; Shrestha, A.; Neupane, A.; Guo, W. "Stock Price Forecasting with Deep Learning: A Comparative Study". Mathematics 2020, 8, 1441.
 * Subba S.,Paudel N., and **Tej Bahadur Shahi**,  "Nepali Text Document Classification Using Deep Neural Network." Tribhuvan University Journal 33.1 (2019): 11-22.
 *  **Tej Bahadur Shahi**, Tank Nath Dhamala, and Bikash Balami. "Support vector machines based part of speech tagging for nepali text." International Journal of Computer Applications 70.24 (2013).  
 
