@@ -13,9 +13,9 @@ author_profile: true
 - Vice President, Computer Science Almuni Association Nepal (2016-2018)
 
 ## External Thesis Evaluation
-- “Prediction of student retention and dropout in higher education using classification techniques of machine learning”,  
-    (Department of Computer Science and Engineering, Kathmandu University, 2018)
-- “Identifying outliers in educational data”, Department of Computer Science and Engineering, Kathmandu University, 2018
+- "Named Entity Based Sentiment Analysis of Nepali News Media Text",(Department of Computer Science and Engineering, Kathmandu University, 2020)
 - “A Comparative Study of Statistical Machine Translation and Neural Machine Translation Paradigms for the under-resourced language pair (English-Nepali)” Department of Computer Science and Engineering, Kathmandu University, 2019 
 - “Predicting the topic of Nepali Documents via topic modeling using Latent Dirichlet Allocation” Department of Computer Science and Engineering, Kathmandu University, 2019.
+- “Prediction of student retention and dropout in higher education using classification techniques of machine learning”, (Department of Computer Science and Engineering, Kathmandu University, 2018)
+- “Identifying outliers in educational data”, Department of Computer Science and Engineering, Kathmandu University, 2018
 
