@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer (Assistant Professor), at Central Department of Computer Science, Tribhuvan University, Kathmandu Nepal. Prior to joining Tribhuvan Unviersity in 2017, I worked as a computer officer for Nepal Goverment from 2014 to 2017. I graduated with M.Sc.CSIT with Distrinction(Gold Medal) form TU in 2012.I skilled in Natural langauge processing for Nepali langauge in area of Part of speech tagging, text classification, text summarization and clustering. My research area includes application of machine learning in natural language processing, text mining, image processing in general. At present, I am working on appliation of machien leanring for precision agriculture project which perticularly deal with images acquired with drone. 
+I am a Lecturer (Assistant Professor), at Central Department of Computer Science, Tribhuvan University, Kathmandu Nepal. Prior to joining Tribhuvan Unviersity in 2017, I worked as a computer officer for Nepal Goverment from 2014 to 2017. I graduated with M.Sc.CSIT with Distrinction(Gold Medal) form TU in 2012.I skilled in Natural langauge processing for Nepali langauge in area of Part of speech tagging, text classification, text summarization and clustering. My research area includes application of machine learning in natural language processing, text mining, image processing in general. At present, I am working on appliation of machien learning for precision agriculture project which perticularly deal with images acquired with drone. 
 
 # Recent Updates
 - August, 2020, A Paper titled "Stock Price Forecasting with Deep Learning: A Comparative Study" has been accepted in "Computer Science section" of Journal- Mathematics (IF-1.747, JCR(Q1))
